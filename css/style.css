@@ -89,10 +89,36 @@
     text-decoration: none;
     padding: 8px;
     border-radius: 5px;
+    box-shadow: 3px 3px 5px black;
 }
 
 #back-link:hover{
     background: #007BFF;
     color: #FFF;
+    box-shadow: none;
 }
 
+/*******************************************************************************************\
+                                        CREATE
+\*******************************************************************************************/
+
+#create-form,
+#edit-form{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.btn{
+    border: 1px solid #007BFF;
+    color: #007BFF;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px black;
+}
+
+.btn:hover{
+    background: #007BFF;
+    color: #FFF;
+    box-shadow: none;
+}
