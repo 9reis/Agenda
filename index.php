@@ -3,8 +3,8 @@ include_once('templates/header.php')
 
 ?>
 
-    <h1>teste</h1>
-    <i class="fab fa-facebook"></i>
+    <h1>Home</h1>
+    
 
 <?php
 include_once('templates/footer.php')

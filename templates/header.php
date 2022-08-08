@@ -25,7 +25,7 @@ include_once('config/url.php');
 
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-            <a class="navbar-brand " href="<?= $BASE_URL ?>index.php">
+            <a class="navbar-brand" href="<?= $BASE_URL ?>index.php">
                 <span class="text-danger ">AG</span>ENDA
             </a>
 
