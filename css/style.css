@@ -40,6 +40,11 @@
     color: #007BFF;
 }
 
+.delete-form{
+    display: inline-block;
+}
+
+
 .delete-btn{
     background:transparent;
     border: none;
@@ -122,6 +127,9 @@
     color: #FFF;
     box-shadow: none;
 }
+
+
+
 
 /*******************************************************************************************\
                                         MEDIA QUERIES
